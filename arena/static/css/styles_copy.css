@@ -1,0 +1,31 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    font-size: 17px;
+    background-color: rgb(240, 240, 254);
+}
+
+.shadow {
+    box-shadow: 0 4px 2px -2px hsla(0, 0%, 0%, 0.127);
+}
+
+.btn-danger {
+    color: #fff;
+    background-color: #f00000;
+    border-color: #dc281e;
+}
+
+.masthead {
+    background: rgb(0, 128, 255);
+    height: auto;
+    padding-bottom: 15px;
+    box-shadow: 0 16px 48px #001c3837;
+    padding-top: 10px;
+}
+
+.head_text {
+    color: white;
+}
+
+.card {
+    box-shadow: 0 16px 48px #e3e7eb;
+}
